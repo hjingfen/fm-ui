@@ -214,8 +214,7 @@ module.exports = {
         use: [
           'style-loader',
           'css-loader',
-          'sass-loader',
-          'node-sass'
+          'sass-loader'
         ]
       }
       // ** STOP ** Are you adding a new loader?
